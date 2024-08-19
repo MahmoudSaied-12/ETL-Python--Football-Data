@@ -1,0 +1,16 @@
+Table Row Counts Log
+Table: Teams
+Original Table Rows: 23
+Cleaned Table Rows: 18
+Table: Players
+Original Table Rows: 399
+Cleaned Table Rows: 246
+Table: Matches
+Original Table Rows: 210
+Cleaned Table Rows: 210
+Table: PlayerStats
+Original Table Rows: 998
+Cleaned Table Rows: 989
+Table: PlayerTransfers
+Original Table Rows: 80
+Cleaned Table Rows: 44
